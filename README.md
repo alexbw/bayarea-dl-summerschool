@@ -24,7 +24,7 @@ conda install lua=5.2 lua-science -c alexbw
 #### Clone this repository and start the notebook server
 ```
 git clone https://github.com/alexbw/bayarea-dl-summerschool.git
-cd bayarea-dl-summerschoool
+cd bayarea-dl-summerschool
 itorch notebook
 # Will open a browser tab, then you can navigate to the notebooks
 ```
