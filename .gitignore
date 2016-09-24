@@ -1,6 +1,10 @@
 # Compiled Lua sources
 luac.out
 
+# Notebooks and data
+*.ipynb_checkpoints/
+*.t7
+
 # luarocks build files
 *.src.rock
 *.zip
